@@ -15,7 +15,7 @@ This project develops a personalized news recommendation system powered by LLaMA
 ## System Architecture
 The system integrates several components for efficient news recommendation:
 
-![System Architecture](system_architecture.png)
+## System Architecture
 
 - **User Input**: Query and user ID via Gradio UI.
 - **SQLite**: Stores and retrieves user click history.
